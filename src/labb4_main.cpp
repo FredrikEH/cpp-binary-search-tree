@@ -1,8 +1,3 @@
-//Fredrik Haupt caha6864
-
-//  labb4_main.cpp
-//  labb4_tree
-
 #include <iostream>
 #include "Trad.h"
 
