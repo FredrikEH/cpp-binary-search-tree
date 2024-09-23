@@ -1,8 +1,3 @@
-//Fredrik Haupt caha6864
-
-//  Trad.h
-//  labb4_tree
-
 #ifndef TRAD_H
 #define TRAD_H
 
